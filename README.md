@@ -1,6 +1,6 @@
 # Recomendador-de-vinos
 Proyecto final de bootcamp ID Bootcamp
-(https://github.com/marpezseb/Recomendador-de-vinos/blob/main/Imagenes/Banner_wine_me_app1%20(1).png)
+![Winnemeapp](https://github.com/marpezseb/Recomendador-de-vinos/blob/main/Imagenes/Banner_wine_me_app1%20(1).png)
 
 _Image classification using Convolutional Neural Networks_
 ## Objetivo
