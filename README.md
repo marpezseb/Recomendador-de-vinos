@@ -1,5 +1,8 @@
 # Recomendador-de-vinos
 Proyecto final de bootcamp ID Bootcamp
+(https://github.com/marpezseb/Recomendador-de-vinos/Imagenes/Banner_wine_me_app1 (1).PNG)
+
+_Image classification using Convolutional Neural Networks_
 ## Objetivo
 Este proyecto tiene como objetivo desarrollar un motor de recomendación de vinos que aprovecha las notas de cata y maridaje.
 ## Pasos
