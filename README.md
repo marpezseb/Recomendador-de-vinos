@@ -1,5 +1,5 @@
 # Recomendador-de-vinos
-Proyecto final de bootcamp ID Bootcamp
+Proyecto final de bootcamp de Data Science y Machine Learning en ID Bootcamp
 ![Winnemeapp](https://github.com/marpezseb/Recomendador-de-vinos/blob/main/Imagenes/Banner_wine_me_app1%20(1).png)
 
 _Image classification using Convolutional Neural Networks_
